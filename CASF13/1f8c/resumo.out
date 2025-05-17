@@ -1,0 +1,180 @@
+ ARGI   ASP    PHE    ASN    ASN    LEU    THR    LYS    GLY    LEU  
+ CYSS   THR    ILE    ASN    SER    TRP    HISD   ILE    TYR    GLY  
+ LYS    ASPN2  ASN    ALA    VAL    ARG    ILE    GLY    GLU    ASP  
+ SER    ASP    VAL    LEU    VAL    THR    ARG    GLU    PRO    TYR  
+ VAL    SER    CYSS   ASP    PRO    ASP    GLU    CYSS   ARG    PHE  
+ TYR    ALA    LEU    SER    GLN    GLY    THR    THR    ILE    ARG  
+ GLY    LYS    HISD   SER    ASN    GLY    THR    ILE    HISD   ASP  
+ ARG    SER    GLN    TYR    ARG    ALA    LEU    ILE    SER    TRP  
+ PRO    LEU    SER    SER    PRO    PRO    THR    VAL    TYR    ASN  
+ SER    ARG    VAL    GLU    CYSS   ILE    GLY    TRP    SER    SER  
+ THR    SER    CYSS   HISE   ASP    GLY    LYS    THR    ARG    MET  
+ SER    ILE    CYSS   ILE    SER    GLY    PRO    ASN    ASN    ASN  
+ ALA    SER    ALA    VAL    ILE    TRP    TYR    ASN    ARG    ARG  
+ PRO    VAL    THR    GLU    ILE    ASN    THR    TRP    ALA    ARG  
+ ASN    ILE    LEU    ARG    THR    GLN    GLUN2  SER    GLUN2  CYSS 
+ VAL    CYSS   HISE   ASN    GLY    VAL    CYSS   PRO    VAL    VAL  
+ PHE    THR    ASP    GLY    SER    ALA    THR    GLY    PRO    ALA  
+ GLU    THR    ARG    ILE    TYR    TYR    PHE    LYS    GLU    GLY  
+ LYS    ILE    LEU    LYS    TRP    GLU    PRO    LEU    ALA    GLY  
+ THR    ALA    LYS    HISE   ILE    GLU    GLU    CYSS   SER    CYSS 
+ TYR    GLY    GLUN2  ARG    ALA    GLU    ILE    THR    CYSS   THR  
+ CYSS   ARG    ASP    ASN    TRP    GLN    GLY    SER    ASN    ARG  
+ PRO    VAL    ILE    ARG    ILE    ASP    PRO    VAL    ALA    MET  
+ THR    HISD   THR    SER    GLN    TYR    ILE    CYSS   SER    PRO  
+ VAL    LEU    THR    ASP    ASN    PRO    ARG    PRO    ASN    ASP  
+ PRO    THR    VAL    GLY    LYS    CYSS   ASN    ASP    PRO    TYR  
+ PRO    GLY    ASN    ASN    ASN    ASN    GLY    VAL    LYS    GLY  
+ PHE    SER    TYR    LEU    ASP    GLY    VAL    ASN    THR    TRP  
+ LEU    GLY    ARG    THR    ILE    SER    ILE    ALA    SER    ARG  
+ SER    GLY    TYR    GLU    MET    LEU    LYS    VAL    PRO    ASN  
+ ALA    LEU    THR    ASP    ASP    LYS    SER    LYS    PRO    THR  
+ GLN    GLY    GLN    THR    ILE    VAL    LEU    ASN    THR    ASP  
+ TRP    SER    GLY    TYR    SER    GLY    SER    PHE    MET    ASP  
+ TYR    ALA    GLU    GLY    GLU    CYSS   TYR    ARG    ALA    CYSS 
+ PHE    TYR    VAL    GLU    LEU    ILE    ARG    GLY    ARG    PRO  
+ LYS    GLU    ASP    LYS    VAL    TRP    TRP    THR    SER    ASN  
+ SER    ILE    VAL    SER    MET    CYSS   SER    SER    THR    GLU  
+ PHE    LEU    GLY    GLN    TRP    ASP    TRP    PRO    ASP    GLY  
+ ALA    LYS    ILE    GLU    TYR    PHE    LEUT 
+
+NUMERO DE AMINOACIDOS DA CADEIA : 387
+
+
+NUMERO DE ATOMOS DA CADEIA :  3764
+
+ ARGI   ASP    PHE    ASN    ASN    LEU    THR    LYS    GLY    LEU  
+ CYSS   THR    ILE    ASN    SER    TRP    HISD   ILE    TYR    GLY  
+ LYS    ASPN2  ASN    ALA    VAL    ARG    ILE    GLY    GLU    ASP  
+ SER    ASP    VAL    LEU    VAL    THR    ARG    GLU    PRO    TYR  
+ VAL    SER    CYSS   ASP    PRO    ASP    GLU    CYSS   ARG    PHE  
+ TYR    ALA    LEU    SER    GLN    GLY    THR    THR    ILE    ARG  
+ GLY    LYS    HISD   SER    ASN    GLY    THR    ILE    HISD   ASP  
+ ARG    SER    GLN    TYR    ARG    ALA    LEU    ILE    SER    TRP  
+ PRO    LEU    SER    SER    PRO    PRO    THR    VAL    TYR    ASN  
+ SER    ARG    VAL    GLU    CYSS   ILE    GLY    TRP    SER    SER  
+ THR    SER    CYSS   HISE   ASP    GLY    LYS    THR    ARG    MET  
+ SER    ILE    CYSS   ILE    SER    GLY    PRO    ASN    ASN    ASN  
+ ALA    SER    ALA    VAL    ILE    TRP    TYR    ASN    ARG    ARG  
+ PRO    VAL    THR    GLU    ILE    ASN    THR    TRP    ALA    ARG  
+ ASN    ILE    LEU    ARG    THR    GLN    GLUN2  SER    GLUN2  CYSS 
+ VAL    CYSS   HISE   ASN    GLY    VAL    CYSS   PRO    VAL    VAL  
+ PHE    THR    ASP    GLY    SER    ALA    THR    GLY    PRO    ALA  
+ GLU    THR    ARG    ILE    TYR    TYR    PHE    LYS    GLU    GLY  
+ LYS    ILE    LEU    LYS    TRP    GLU    PRO    LEU    ALA    GLY  
+ THR    ALA    LYS    HISE   ILE    GLU    GLU    CYSS   SER    CYSS 
+ TYR    GLY    GLUN2  ARG    ALA    GLU    ILE    THR    CYSS   THR  
+ CYSS   ARG    ASP    ASN    TRP    GLN    GLY    SER    ASN    ARG  
+ PRO    VAL    ILE    ARG    ILE    ASP    PRO    VAL    ALA    MET  
+ THR    HISD   THR    SER    GLN    TYR    ILE    CYSS   SER    PRO  
+ VAL    LEU    THR    ASP    ASN    PRO    ARG    PRO    ASN    ASP  
+ PRO    THR    VAL    GLY    LYS    CYSS   ASN    ASP    PRO    TYR  
+ PRO    GLY    ASN    ASN    ASN    ASN    GLY    VAL    LYS    GLY  
+ PHE    SER    TYR    LEU    ASP    GLY    VAL    ASN    THR    TRP  
+ LEU    GLY    ARG    THR    ILE    SER    ILE    ALA    SER    ARG  
+ SER    GLY    TYR    GLU    MET    LEU    LYS    VAL    PRO    ASN  
+ ALA    LEU    THR    ASP    ASP    LYS    SER    LYS    PRO    THR  
+ GLN    GLY    GLN    THR    ILE    VAL    LEU    ASN    THR    ASP  
+ TRP    SER    GLY    TYR    SER    GLY    SER    PHE    MET    ASP  
+ TYR    ALA    GLU    GLY    GLU    CYSS   TYR    ARG    ALA    CYSS 
+ PHE    TYR    VAL    GLU    LEU    ILE    ARG    GLY    ARG    PRO  
+ LYS    GLU    ASP    LYS    VAL    TRP    TRP    THR    SER    ASN  
+ SER    ILE    VAL    SER    MET    CYSS   SER    SER    THR    GLU  
+ PHE    LEU    GLY    GLN    TRP    ASP    TRP    PRO    ASP    GLY  
+ ALA    LYS    ILE    GLU    TYR    PHE    LEUT 
+
+NUMERO DE AMINOACIDOS DA CADEIA : 387
+
+
+NUMERO DE ATOMOS DA CADEIA :  3764
+
+ ARGI   ASP    PHE    ASN    ASN    LEU    THR    LYS    GLY    LEU  
+ CYSS   THR    ILE    ASN    SER    TRP    HISD   ILE    TYR    GLY  
+ LYS    ASPN2  ASN    ALA    VAL    ARG    ILE    GLY    GLU    ASP  
+ SER    ASP    VAL    LEU    VAL    THR    ARG    GLU    PRO    TYR  
+ VAL    SER    CYSS   ASP    PRO    ASP    GLU    CYSS   ARG    PHE  
+ TYR    ALA    LEU    SER    GLN    GLY    THR    THR    ILE    ARG  
+ GLY    LYS    HISD   SER    ASN    GLY    THR    ILE    HISD   ASP  
+ ARG    SER    GLN    TYR    ARG    ALA    LEU    ILE    SER    TRP  
+ PRO    LEU    SER    SER    PRO    PRO    THR    VAL    TYR    ASN  
+ SER    ARG    VAL    GLU    CYSS   ILE    GLY    TRP    SER    SER  
+ THR    SER    CYSS   HISE   ASP    GLY    LYS    THR    ARG    MET  
+ SER    ILE    CYSS   ILE    SER    GLY    PRO    ASN    ASN    ASN  
+ ALA    SER    ALA    VAL    ILE    TRP    TYR    ASN    ARG    ARG  
+ PRO    VAL    THR    GLU    ILE    ASN    THR    TRP    ALA    ARG  
+ ASN    ILE    LEU    ARG    THR    GLN    GLUN2  SER    GLUN2  CYSS 
+ VAL    CYSS   HISE   ASN    GLY    VAL    CYSS   PRO    VAL    VAL  
+ PHE    THR    ASP    GLY    SER    ALA    THR    GLY    PRO    ALA  
+ GLU    THR    ARG    ILE    TYR    TYR    PHE    LYS    GLU    GLY  
+ LYS    ILE    LEU    LYS    TRP    GLU    PRO    LEU    ALA    GLY  
+ THR    ALA    LYS    HISE   ILE    GLU    GLU    CYSS   SER    CYSS 
+ TYR    GLY    GLUN2  ARG    ALA    GLU    ILE    THR    CYSS   THR  
+ CYSS   ARG    ASP    ASN    TRP    GLN    GLY    SER    ASN    ARG  
+ PRO    VAL    ILE    ARG    ILE    ASP    PRO    VAL    ALA    MET  
+ THR    HISD   THR    SER    GLN    TYR    ILE    CYSS   SER    PRO  
+ VAL    LEU    THR    ASP    ASN    PRO    ARG    PRO    ASN    ASP  
+ PRO    THR    VAL    GLY    LYS    CYSS   ASN    ASP    PRO    TYR  
+ PRO    GLY    ASN    ASN    ASN    ASN    GLY    VAL    LYS    GLY  
+ PHE    SER    TYR    LEU    ASP    GLY    VAL    ASN    THR    TRP  
+ LEU    GLY    ARG    THR    ILE    SER    ILE    ALA    SER    ARG  
+ SER    GLY    TYR    GLU    MET    LEU    LYS    VAL    PRO    ASN  
+ ALA    LEU    THR    ASP    ASP    LYS    SER    LYS    PRO    THR  
+ GLN    GLY    GLN    THR    ILE    VAL    LEU    ASN    THR    ASP  
+ TRP    SER    GLY    TYR    SER    GLY    SER    PHE    MET    ASP  
+ TYR    ALA    GLU    GLY    GLU    CYSS   TYR    ARG    ALA    CYSS 
+ PHE    TYR    VAL    GLU    LEU    ILE    ARG    GLY    ARG    PRO  
+ LYS    GLU    ASP    LYS    VAL    TRP    TRP    THR    SER    ASN  
+ SER    ILE    VAL    SER    MET    CYSS   SER    SER    THR    GLU  
+ PHE    LEU    GLY    GLN    TRP    ASP    TRP    PRO    ASP    GLY  
+ ALA    LYS    ILE    GLU    TYR    PHE    LEUT 
+
+NUMERO DE AMINOACIDOS DA CADEIA : 387
+
+
+NUMERO DE ATOMOS DA CADEIA :  3763
+
+ ARGI   ASP    PHE    ASN    ASN    LEU    THR    LYS    GLY    LEU  
+ CYSS   THR    ILE    ASN    SER    TRP    HISD   ILE    TYR    GLY  
+ LYS    ASPN2  ASN    ALA    VAL    ARG    ILE    GLY    GLU    ASP  
+ SER    ASP    VAL    LEU    VAL    THR    ARG    GLU    PRO    TYR  
+ VAL    SER    CYSS   ASP    PRO    ASP    GLU    CYSS   ARG    PHE  
+ TYR    ALA    LEU    SER    GLN    GLY    THR    THR    ILE    ARG  
+ GLY    LYS    HISD   SER    ASN    GLY    THR    ILE    HISD   ASP  
+ ARG    SER    GLN    TYR    ARG    ALA    LEU    ILE    SER    TRP  
+ PRO    LEU    SER    SER    PRO    PRO    THR    VAL    TYR    ASN  
+ SER    ARG    VAL    GLU    CYSS   ILE    GLY    TRP    SER    SER  
+ THR    SER    CYSS   HISE   ASP    GLY    LYS    THR    ARG    MET  
+ SER    ILE    CYSS   ILE    SER    GLY    PRO    ASN    ASN    ASN  
+ ALA    SER    ALA    VAL    ILE    TRP    TYR    ASN    ARG    ARG  
+ PRO    VAL    THR    GLU    ILE    ASN    THR    TRP    ALA    ARG  
+ ASN    ILE    LEU    ARG    THR    GLN    GLUN2  SER    GLUN2  CYSS 
+ VAL    CYSS   HISE   ASN    GLY    VAL    CYSS   PRO    VAL    VAL  
+ PHE    THR    ASP    GLY    SER    ALA    THR    GLY    PRO    ALA  
+ GLU    THR    ARG    ILE    TYR    TYR    PHE    LYS    GLU    GLY  
+ LYS    ILE    LEU    LYS    TRP    GLU    PRO    LEU    ALA    GLY  
+ THR    ALA    LYS    HISE   ILE    GLU    GLU    CYSS   SER    CYSS 
+ TYR    GLY    GLUN2  ARG    ALA    GLU    ILE    THR    CYSS   THR  
+ CYSS   ARG    ASP    ASN    TRP    GLN    GLY    SER    ASN    ARG  
+ PRO    VAL    ILE    ARG    ILE    ASP    PRO    VAL    ALA    MET  
+ THR    HISD   THR    SER    GLN    TYR    ILE    CYSS   SER    PRO  
+ VAL    LEU    THR    ASP    ASN    PRO    ARG    PRO    ASN    ASP  
+ PRO    THR    VAL    GLY    LYS    CYSS   ASN    ASP    PRO    TYR  
+ PRO    GLY    ASN    ASN    ASN    ASN    GLY    VAL    LYS    GLY  
+ PHE    SER    TYR    LEU    ASP    GLY    VAL    ASN    THR    TRP  
+ LEU    GLY    ARG    THR    ILE    SER    ILE    ALA    SER    ARG  
+ SER    GLY    TYR    GLU    MET    LEU    LYS    VAL    PRO    ASN  
+ ALA    LEU    THR    ASP    ASP    LYS    SER    LYS    PRO    THR  
+ GLN    GLY    GLN    THR    ILE    VAL    LEU    ASN    THR    ASP  
+ TRP    SER    GLY    TYR    SER    GLY    SER    PHE    MET    ASP  
+ TYR    ALA    GLU    GLY    GLU    CYSS   TYR    ARG    ALA    CYSS 
+ PHE    TYR    VAL    GLU    LEU    ILE    ARG    GLY    ARG    PRO  
+ LYS    GLU    ASP    LYS    VAL    TRP    TRP    THR    SER    ASN  
+ SER    ILE    VAL    SER    MET    CYSS   SER    SER    THR    GLU  
+ PHE    LEU    GLY    GLN    TRP    ASP    TRP    PRO    ASP    GLY  
+ ALA    LYS    ILE    GLU    TYR    PHE    LEUT 
+
+NUMERO DE AMINOACIDOS DA CADEIA : 387
+
+
+NUMERO DE ATOMOS DA CADEIA :  3763
+
